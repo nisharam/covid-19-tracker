@@ -5,3 +5,7 @@ node_modules
 
 # the build folder
 build
+
+
+# firebase folder
+.firebase
