@@ -1,0 +1,2 @@
+This is a covid-19 tracker web app built using React.js app. 
+It shows the data of the worlwide cases.
