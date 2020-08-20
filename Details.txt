@@ -1,2 +1,5 @@
 This is a covid-19 tracker web app built using React.js app. 
 It shows the data of the worlwide cases.
+
+
+The project has been hosted and can be viewed as :- https://covid-19-tracker-9b5b7.web.app
